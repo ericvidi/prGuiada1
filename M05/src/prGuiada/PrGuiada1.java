@@ -16,7 +16,7 @@ public class PrGuiada1 {
 			bw.newLine();
 			bw.write(" <title>");
 			bw.newLine();
-			bw.write(" Projecte acabat");
+			bw.write(" Projecte realitzat");
 			bw.newLine();
 			bw.write(" </title>");
 			bw.newLine();
